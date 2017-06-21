@@ -1,0 +1,9 @@
+F:\Projects\c#\Process Check Vibrator\GUIAPP\GUIAPP\bin\Debug\GUIAPP.exe.config
+F:\Projects\c#\Process Check Vibrator\GUIAPP\GUIAPP\bin\Debug\GUIAPP.exe
+F:\Projects\c#\Process Check Vibrator\GUIAPP\GUIAPP\bin\Debug\GUIAPP.pdb
+F:\Projects\c#\Process Check Vibrator\GUIAPP\GUIAPP\obj\Debug\GUIAPP.csprojResolveAssemblyReference.cache
+F:\Projects\c#\Process Check Vibrator\GUIAPP\GUIAPP\obj\Debug\GUIAPP.ProcessSTOP.resources
+F:\Projects\c#\Process Check Vibrator\GUIAPP\GUIAPP\obj\Debug\GUIAPP.Properties.Resources.resources
+F:\Projects\c#\Process Check Vibrator\GUIAPP\GUIAPP\obj\Debug\GUIAPP.csproj.GenerateResource.Cache
+F:\Projects\c#\Process Check Vibrator\GUIAPP\GUIAPP\obj\Debug\GUIAPP.exe
+F:\Projects\c#\Process Check Vibrator\GUIAPP\GUIAPP\obj\Debug\GUIAPP.pdb
